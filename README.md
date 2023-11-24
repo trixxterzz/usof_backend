@@ -41,6 +41,7 @@ Endpoints:
     •User module:
     
         -GET - /api/users- get all users
+
         
         –GET - /api/users/<user_id>- get specified user data
         
