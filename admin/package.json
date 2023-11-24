@@ -1,0 +1,10 @@
+{
+  "name": "admmin",
+  "type": "module",
+  "dependencies": {
+    "@adminjs/express": "^6.1.0",
+    "@adminjs/sequelize": "^4.0.0",
+    "adminjs": "^7.4.0",
+    "bcrypt": "^5.1.1"
+  }
+}
